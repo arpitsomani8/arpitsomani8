@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arpitsomani8
 - 👀 I’m interested in ML/AI and Web development (Flask,Django,React)
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently exploring ML/AI Direction
 - 💞️ I’m looking to collaborate on ML
 - 📫 How to reach me: https://arpitsomani.in/contact/
 
